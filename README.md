@@ -1,4 +1,4 @@
-## Kul att du hittade hit, hoppas du hittar något som intresserar dig!
+## Kul att du hittade hit, hoppas du finner något som intresserar dig!
 
 ### Kort om mig
 
