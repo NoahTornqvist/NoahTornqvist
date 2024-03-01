@@ -1,5 +1,8 @@
 ### Kul att du hittade hit, hoppas du hittar något som intresserar dig!
-### Vid frågor om mina projekt så kontakta mig gärna på: noah.toernqvist@gmail.com
+
+Jag studerar för nuvarande till civilingenjörsstudent inom informationsteknik på KTH i Stockholm.
+
+Vid frågor om mina projekt så kontakta mig gärna på: noah.toernqvist@gmail.com
 
 <!--
 **NoahTornqvist/NoahTornqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
