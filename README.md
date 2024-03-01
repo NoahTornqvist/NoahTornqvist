@@ -2,7 +2,7 @@
 
 ### Kort om mig
 
-Jag studerar för nuvarande till civilingenjörsstudent inom informationsteknik på KTH i Stockholm.
+Jag studerar för nuvarande till civilingenjör inom informationsteknik på KTH i Stockholm.
 
 ### Kontakt
 
