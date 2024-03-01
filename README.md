@@ -1,6 +1,10 @@
 ### Kul att du hittade hit, hoppas du hittar något som intresserar dig!
 
+## Kort om mig
+
 Jag studerar för nuvarande till civilingenjörsstudent inom informationsteknik på KTH i Stockholm.
+
+## Kontakt
 
 Vid frågor om mina projekt så kontakta mig gärna på: noah.toernqvist@gmail.com
 
