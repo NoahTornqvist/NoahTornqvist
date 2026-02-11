@@ -2,7 +2,7 @@
 
 ### Kort om mig
 
-Mitt namn är Noah Törnqvist och jag studerar för nuvarande till civilingenjör inom informationsteknik på KTH i Stockholm.
+Mitt namn är Noah Törnqvist och jag studerar till civilingenjör inom informationsteknik med inriktning på inbyggda system på KTH i Stockholm.
 
 ### Kontakt
 
